@@ -31,7 +31,7 @@ export interface CropOptions {
   pluginName: 'Crop',
   plugin: 'cordova-plugin-crop',
   pluginRef: 'plugins',
-  repo: 'https://github.com/jeduan/cordova-plugin-crop',
+  repo: 'https://github.com/kalaiprakash93/cordova-plugin-crop',
   platforms: ['Android', 'iOS'],
 })
 @Injectable()
